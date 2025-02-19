@@ -32,7 +32,7 @@ The system implements a pipeline architecture with the following components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/clinical-trial-matching-api.git
+git clone https://github.com/vishalseelam/clinical-trial-matching-api.git
 cd clinical-trial-matching-api
 ```
 
